@@ -1,8 +1,8 @@
 # Portfólio de Projetos - Fatec Jacareí
 
-**Aluno:** [Fernanda Fonseca Ribeiro]  
+**Aluno:** Fernanda Fonseca Ribeiro
 **Curso:** Desenvolvimento de Software Multiplataforma  
-**Turma:** [2DSM - 2026]
+**Turma:** 2DSM - 2026
 
 ---
 
