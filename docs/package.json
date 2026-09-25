@@ -1,0 +1,29 @@
+{
+  "name": "ra2581392613004",
+  "version": "1.0.0",
+  "description": "Portfólio acadêmico de Fernanda Fonseca Ribeiro",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "start index.html",
+    "dev": "start index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613004.git"
+  },
+  "keywords": [
+    "portfolio",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Fernanda Fonseca Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613004/issues"
+  },
+  "homepage": "https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613004#readme"
+}
