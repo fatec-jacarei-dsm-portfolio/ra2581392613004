@@ -9,7 +9,9 @@
 
 **Portfólio Online**
 
-🔗 [Acesse o Portfólio](https://portifolio-1fa4.onrender.com/)
+🔗 [Acesse o Portfólio Render](https://portifolio-1fa4.onrender.com/)
+🔗 [Acesse o Portfólio Github.io](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392613004/)
+
 
 ---
 
