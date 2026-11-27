@@ -20,33 +20,33 @@
             'hero.role':
                 'Estudante de Desenvolvimento de Software Multiplataforma',
             'hero.description':
-                'Construo soluções digitais com foco em desenvolvimento web, aprendizado contínuo e evolução profissional.',
+                'Desenvolvo aplicações web do protótipo no Figma à API com banco de dados, e organizo equipes com Scrum para que o projeto chegue à entrega.',
             'hero.projects': 'Ver projetos',
             'hero.cv': 'Currículo',
 
             'about.eyebrow': 'Sobre mim',
             'about.title':
-                'Aprender, construir e evoluir.',
+                'Do protótipo à entrega.',
             'about.description':
-                'Minha formação em Desenvolvimento de Software Multiplataforma combina desenvolvimento, tecnologia, trabalho em equipe e aprendizado contínuo.',
+                'Estou no 2º semestre de DSM na FATEC Jacareí. Nos projetos integradores, já atuei como desenvolvedora front-end e como Scrum Master, e gosto de estar nos dois lados: construindo a interface e garantindo que o time entregue.',
 
             'about.learn.title': 'Aprender',
             'about.learn.text':
-                'Busco ampliar meus conhecimentos por meio da faculdade, cursos, certificações e projetos práticos.',
+                'Complemento a faculdade com cursos e certificações em Git, IT Essentials e Metodologias Ágeis, e aplico o que aprendo em projetos práticos.',
 
             'about.build.title': 'Construir',
             'about.build.text':
-                'Transformo conhecimentos em projetos que podem ser apresentados, documentados e evoluídos ao longo da formação.',
+                'Desenvolvo interfaces com HTML, CSS, JavaScript e React, e APIs em Node.js com Express e PostgreSQL, sempre com repositório e documentação.',
 
-            'about.evolve.title': 'Evoluir',
+            'about.evolve.title': 'Organizar',
             'about.evolve.text':
-                'O portfólio acompanha minha trajetória e recebe novos projetos, competências e experiências a cada etapa do curso.',
+                'Como Scrum Master, conduzo as cerimônias, mantenho backlog e documentação atualizados e acompanho prazos e responsáveis de cada entrega.',
 
             'projects.eyebrow': 'Projetos',
             'projects.title':
-                'Uma trajetória em construção.',
+                'O que já construí.',
             'projects.description':
-                'Projetos acadêmicos, profissionais e pessoais organizados para acompanhar minha evolução durante o curso.',
+                'Projetos integradores da FATEC, estudos pessoais e, em breve, experiências profissionais.',
 
             'projects.academic.title':
                 'Projetos Acadêmicos',
@@ -96,33 +96,33 @@
             'hero.role':
                 'Multiplatform Software Development Student',
             'hero.description':
-                'I build digital solutions focused on web development, continuous learning, and professional growth.',
+                'I build web applications from the Figma prototype to the database-backed API, and I organize teams with Scrum so projects get delivered.',
             'hero.projects': 'View projects',
             'hero.cv': 'Resume',
 
             'about.eyebrow': 'About me',
             'about.title':
-                'Learn, build, and evolve.',
+                'From prototype to delivery.',
             'about.description':
-                'My Multiplatform Software Development education combines development, technology, teamwork, and continuous learning.',
+                'I am in the 2nd semester of Multiplatform Software Development at FATEC Jacareí. In the integrative projects I have worked as a front-end developer and as Scrum Master, and I enjoy both sides: building the interface and making sure the team delivers.',
 
             'about.learn.title': 'Learn',
             'about.learn.text':
-                'I expand my knowledge through college, courses, certifications, and practical projects.',
+                'I complement college with courses and certifications in Git, IT Essentials, and Agile Methodologies, and apply what I learn in hands-on projects.',
 
             'about.build.title': 'Build',
             'about.build.text':
-                'I turn knowledge into projects that can be presented, documented, and improved throughout my education.',
+                'I build interfaces with HTML, CSS, JavaScript, and React, and APIs in Node.js with Express and PostgreSQL, always with a repository and documentation.',
 
-            'about.evolve.title': 'Evolve',
+            'about.evolve.title': 'Organize',
             'about.evolve.text':
-                'This portfolio follows my journey and receives new projects, skills, and experiences throughout the course.',
+                'As Scrum Master, I run the ceremonies, keep the backlog and documentation up to date, and track deadlines and owners for each delivery.',
 
             'projects.eyebrow': 'Projects',
             'projects.title':
-                'A journey in progress.',
+                'What I have built.',
             'projects.description':
-                'Academic, professional, and personal projects organized to follow my development throughout the course.',
+                'FATEC integrative projects, personal studies, and, soon, professional experience.',
 
             'projects.academic.title':
                 'Academic Projects',

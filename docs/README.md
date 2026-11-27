@@ -9,9 +9,7 @@
 
 **Portfólio Online**
 
-🔗 [Acesse o Portfólio Render](https://portifolio-1fa4.onrender.com/)
-
-🔗 [Acesse o Portfólio Github.io](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392613004/)
+🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392613004/)
 
 
 ---
@@ -19,5 +17,5 @@
 **Vídeos de Apresentação**
 
 🎤 2DSM - [Vídeo](LINK_VIDEO_2DSM)  
-🎤 4DSM - [Vídeo](LINK_VIDEO_4DSM)  
-🎤 6DSM - [Vídeo](LINK_VIDEO_6DSM)
+🎤 4DSM - [Vídeo](Indisponível)  
+🎤 6DSM - [Vídeo](Indisponível)
